@@ -12,15 +12,15 @@ document.addEventListener('DOMContentLoaded', function() {
             isNew: true
         },
         {
-            title: "Waktu Operasi",
-            content: "Kami kini beroperasi dari jam 9:00 pagi hingga 6:00 malam setiap Isnin hingga Sabtu.",
-            date: "1 Julai 2025"
-        },
-        {
             title: "Diskaun RM10 hari ini",
             content: "Dapatkan diskaun RM10 untuk menjadi membership kami.",
             date: "15 Julai 2025"
         }
+        {
+            title: "Waktu Operasi",
+            content: "Kami kini beroperasi dari jam 9:00 pagi hingga 6:00 malam setiap Isnin hingga Sabtu.",
+            date: "1 Julai 2025"
+        },
     ];
 
     // Check if there are new announcements
